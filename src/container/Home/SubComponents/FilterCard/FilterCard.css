@@ -1,0 +1,39 @@
+hr{
+    margin: 0px 0px 15px 0px;
+}
+
+.FilterCard{
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px 15px;
+}
+
+.year-filter-container{
+    text-align: center;
+}
+
+.filter-selected {
+    background-color: #79e33b;
+}
+
+.filter-boolean{
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    width: 100%;
+}
+
+.grid-margin{
+    padding: 5px 20px !important;
+}
+
+.filter-heading{
+    margin-bottom: 2px;
+    font-size: 0.8em;
+}
+
+@media only screen and (max-width: 1024px) {
+    .FilterCard{
+        font-size: 0.7em;
+    }
+}

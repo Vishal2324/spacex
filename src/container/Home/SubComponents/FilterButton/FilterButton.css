@@ -1,0 +1,24 @@
+.filter-button {
+    border: 1px solid #888;
+    padding: 2px 15px;
+    border-radius: 5px;
+    background-color: #79e33b59;
+    cursor: pointer;
+    text-decoration: none !important;
+    min-width: fit-content;
+}
+
+.filter-button:hover {
+    background-color: #79e33b;
+}
+
+@media only screen and (max-width: 1024px) {
+    .filter-button {
+        padding: 5px 5px;
+        border-radius: 5px;
+        background-color: #79e33b59;
+        cursor: pointer;
+        text-decoration: none !important;
+        font-size: 1em;
+    }
+}
