@@ -5,9 +5,9 @@ program. Also user can filter out the data accordingly.
 
 [Demo Link](https://spacex-launch-program.herokuapp.com)
 
-![SpaceX Launch Program View](https://i.ibb.co/Fzs40s0/Screenshot-2020-08-08-at-10-49-18-PM.png)
+![SpaceX Launch Program View](https://i.ibb.co/Fzs40s0/Screenshot-2020-08-08-at-10-49-18-PM.png | width=200)
 
-![After applying filters](https://i.ibb.co/w70vKH5/Screenshot-2020-08-08-at-10-53-34-PM.png)
+![After applying filters](https://i.ibb.co/w70vKH5/Screenshot-2020-08-08-at-10-53-34-PM.png | width=200)
 
 ## Technologies Used
 
