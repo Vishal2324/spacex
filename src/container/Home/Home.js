@@ -45,7 +45,7 @@ class Home extends Component {
         const newFilter = { ...filterSelected };
 
         // will remove filter if user clicks on same filter which is already applied
-        if (key in newFilter && newFilter[key] ===  value){
+        if (key in newFilter && newFilter[key].toString() ===  value.toString()){
             delete newFilter[key];
         } else {
             newFilter[key] = value;
